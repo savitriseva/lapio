@@ -1,6 +1,7 @@
 Here is some text
 I like dogs
 terveisiä mun koneelta
+Terveisiä Githubista
 I really liked the first week
 And pancakes
 And also the HTML/CSS assignments
